@@ -1,5 +1,5 @@
 # GitHub Workshop
 demo
-This is demo from dev 1
+This is demo from dev 1Some Conflict from Remote
 This is Demo from master111
 
